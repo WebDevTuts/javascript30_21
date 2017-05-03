@@ -1,5 +1,5 @@
 ## JavaScript30 Day 21 - Geolocation based Speedometer and Compass
 
-In this tutorial, we learn to manipulate iOS Geolocation based Speedometer and Compass.
+In this tutorial, we learn to manipulate iOS Geolocation based Speedometer and Compass. An iOS simulator is required to display the speedometer compass as shown in the screenshot below.
 
-[View demo site here.](https://webdevtuts.github.io/javascript30_16/)
+![Preview](screenshot.jpg)
